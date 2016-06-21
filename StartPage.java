@@ -14,6 +14,7 @@ public class StartPage extends javax.swing.JFrame {
 
     /**
      * Creates new form StartPage
+     * Hello this is great
      */
     public StartPage() {
         initComponents();
